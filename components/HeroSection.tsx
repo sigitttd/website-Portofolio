@@ -3,7 +3,7 @@
 import { useReducedMotion, motion } from "framer-motion";
 import { textRevealVariants } from "@/lib/data";
 
-const headline = "From Data Analyst to Web Developer";
+const headline = "Data Analyst Sigit Jago";
 const subHeadline =
   "Data Science graduate from Telkom University (GPA 3.96, Summa Cum Laude), bridging analytical thinking with modern web development.";
 
